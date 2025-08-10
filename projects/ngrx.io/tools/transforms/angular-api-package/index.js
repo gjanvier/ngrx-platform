@@ -91,6 +91,7 @@ module.exports = new Package('angular-api', [basePackage, typeScriptPackage])
       'signals/index.ts',
       'signals/entities/index.ts',
       'signals/events/index.ts',
+      'signals/forms/index.ts',
       'signals/rxjs-interop/index.ts',
       'signals/testing/index.ts',
       'operators/index.ts',
